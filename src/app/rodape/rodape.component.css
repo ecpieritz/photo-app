@@ -1,0 +1,26 @@
+.rodape {
+  background-size: 100% 100%;
+  height: 80px;
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: #006cd1;
+  color: white;
+
+  -webkit-print-color-adjust: exact;
+}
+
+.texto {
+  font-size: 20px;
+  margin-top: 1vw;
+  margin-right: -10vw;
+}
+
+@media (max-width: 576px) {
+  .texto {
+    font-size: 16px;
+  }
+}
