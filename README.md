@@ -2,7 +2,7 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://scontent.fbnu2-1.fna.fbcdn.net/v/t1.0-9/121001968_1750816481739362_2133357521128826012_n.jpg?_nc_cat=100&_nc_sid=0debeb&_nc_eui2=AeHoTPL5B3guRFHOWLa1A0avKVPUeNu11j4pU9R427XWPpu5cz5B7cmlma-vSiGesBOaArNisnM9RUVQ8-UhPz_B&_nc_ohc=HfvCqzAKglIAX8K-q9J&_nc_ht=scontent.fbnu2-1.fna&oh=46216ee075a8f55b03161b6c7d1ded3e&oe=5FA0302E" width = "700">
+  <img src = "https://github.com/ecpieritz/photo-app/blob/main/src/assets/picture-slide-print.jpg?raw=true" width = "800">
 </p>
 
 ---
