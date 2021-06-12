@@ -32,7 +32,7 @@ Exercise the following concepts worked on in the Module:
 
 ## 🚀 How to execute the project
 #### Clone the repository
-git clone https://github.com/EPieritz/photo-app.git
+git clone https://github.com/ecpieritz/photo-app.git
 
 #### Enter directory
 `cd photo-app`
