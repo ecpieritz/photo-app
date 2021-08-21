@@ -45,4 +45,4 @@ git clone https://github.com/ecpieritz/photo-app.git
 - Navigate to `http://localhost:4200/`
 
 ---
-Developed with 💙 by Emilyn C. Pieritz
+<p align = "right">Developed with 💙 by Emilyn C. Pieritz</p>
